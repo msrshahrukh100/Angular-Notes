@@ -1,8 +1,11 @@
 # Angular Commands
 
 1. To install the cli - `npm install -g @angular/cli`
+
 2. To create new project - `ng new PROJECT-NAME`
+
 3. To serve the project - `cd PROJECT-NAME` and `ng serve`
+
 4. To serve to a different port - `ng serve --host 0.0.0.0 --port 4201`
 _____________________________
 
@@ -23,3 +26,5 @@ _____________________________
     ng g component feature/new-cmp
     # and your component will be generated in src/app/feature/new-cmp
     ```
+
+6. To install and use bootstrap - `npm install --save bootstrap`. Then add to styles in angular-cli.json file.
