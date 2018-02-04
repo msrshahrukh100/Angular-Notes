@@ -31,5 +31,5 @@ _____________________________
 
 7. **Attribute directives** sit on the element just like a normal attribute, **structural directive** basically do the same but they change the structure as well.
 
-[Images](images/screen.png)
+![Images](images/screen.png)
 
