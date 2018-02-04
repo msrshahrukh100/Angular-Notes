@@ -28,3 +28,6 @@ _____________________________
     ```
 
 6. To install and use bootstrap - `npm install --save bootstrap`. Then add to styles in angular-cli.json file.
+
+7. **Attribute directives** sit on the element just like a normal attribute, **structural directive** basically do the same but they change the structure as well.
+
